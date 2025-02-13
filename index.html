@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+	<meta charset="utf-8">
+	<title>工具箱</title>
+	<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/styles/index.beta.1.01.css" rel="stylesheet">
+	<script src="/script/index_beta_01.js"></script>
+</head>
+
+<body>
+	<div class="tool">
+		<div class="box-head">
+			<span class="tool-name">工具箱</span>
+			<span>Version Beta1.21</span>
+		    <span>Developed by <a href="https://www.ariong.top">Ariong</a> & <a href="https://classfruit.top">ClassFruit</a><span>
+		</div>
+		<div class="box-input">
+			<select id="search-engine" onchange="changeSearchEngine()">
+				<option value="bing">必应</option>
+				<option value="baidu">百度</option>
+				<option value="yandex">Yandex</option>
+				<option value="360">360</option>
+				<option value="sougo">搜狗</option>
+				<option value="github">GitHub</option>
+				<option value="google">Google</option>
+			</select>
+			<input type="text" id="search-input" autocomplete="off" placeholder="请键入关键词">
+			<button id="searchButton" onclick="search()"><span class="fa fa-search"></span></button>
+		</div>
+		<div class="box-item">
+			<ul>
+				<li><a href="/random/index">随机数 Beta</a></li>
+				<li><a href="">item name 2</a></li>
+				<li><a href="">item name 3</a></li>
+				<li><a href="">item name 4</a></li>
+				<li><a href="">item name 5</a></li>
+			</ul>
+		</div>
+		<div class="box-poem">
+			<div class="poem" id="poem"></div>
+			<div class="author" id="author"></div>
+		</div>
+	</div>
+</body>
+</html>

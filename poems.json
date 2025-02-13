@@ -1,0 +1,891 @@
+[
+	{
+		"author": "李白",
+		"dynasty": "唐",
+		"content": "床前明月光，疑是地上霜。"
+	},
+	{
+		"author": "杜甫",
+		"dynasty": "唐",
+		"content": "会当凌绝顶，一览众山小。"
+	},
+	{
+		"author": "王维",
+		"dynasty": "唐",
+		"content": "大漠孤烟直，长河落日圆。"
+	},
+	{
+		"author": "白居易",
+		"dynasty": "唐",
+		"content": "野火烧不尽，春风吹又生。"
+	},
+	{
+		"author": "王之涣",
+		"dynasty": "唐",
+		"content": "欲穷千里目，更上一层楼。"
+	},
+	{
+		"author": "孟浩然",
+		"dynasty": "唐",
+		"content": "春眠不觉晓，处处闻啼鸟。"
+	},
+	{
+		"author": "岑参",
+		"dynasty": "唐",
+		"content": "忽如一夜春风来，千树万树梨花开。"
+	},
+	{
+		"author": "王昌龄",
+		"dynasty": "唐",
+		"content": "黄沙百战穿金甲，不破楼兰终不还。"
+	},
+	{
+		"author": "柳宗元",
+		"dynasty": "唐",
+		"content": "千山鸟飞绝，万径人踪灭。"
+	},
+	{
+		"author": "韩愈",
+		"dynasty": "唐",
+		"content": "天街小雨润如酥，草色遥看近却无。"
+	},
+	{
+		"author": "李商隐",
+		"dynasty": "唐",
+		"content": "春蚕到死丝方尽，蜡炬成灰泪始干。"
+	},
+	{
+		"author": "杜牧",
+		"dynasty": "唐",
+		"content": "停车坐爱枫林晚，霜叶红于二月花。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "但愿人长久，千里共婵娟。"
+	},
+	{
+		"author": "辛弃疾",
+		"dynasty": "宋",
+		"content": "醉里挑灯看剑，梦回吹角连营。"
+	},
+	{
+		"author": "李清照",
+		"dynasty": "宋",
+		"content": "莫道不销魂，帘卷西风，人比黄花瘦。"
+	},
+	{
+		"author": "柳永",
+		"dynasty": "宋",
+		"content": "衣带渐宽终不悔，为伊消得人憔悴。"
+	},
+	{
+		"author": "欧阳修",
+		"dynasty": "宋",
+		"content": "泪眼问花花不语，乱红飞过秋千去。"
+	},
+	{
+		"author": "范仲淹",
+		"dynasty": "宋",
+		"content": "先天下之忧而忧，后天下之乐而乐。"
+	},
+	{
+		"author": "晏殊",
+		"dynasty": "宋",
+		"content": "无可奈何花落去，似曾相识燕归来。"
+	},
+	{
+		"author": "秦观",
+		"dynasty": "宋",
+		"content": "两情若是久长时，又岂在朝朝暮暮。"
+	},
+	{
+		"author": "张先",
+		"dynasty": "宋",
+		"content": "云破月来花弄影。"
+	},
+	{
+		"author": "周邦彦",
+		"dynasty": "宋",
+		"content": "叶上初阳干宿雨，水面清圆，一一风荷举。"
+	},
+	{
+		"author": "马致远",
+		"dynasty": "元",
+		"content": "枯藤老树昏鸦，小桥流水人家。"
+	},
+	{
+		"author": "关汉卿",
+		"dynasty": "元",
+		"content": "我是个蒸不烂、煮不熟、捶不匾、炒不爆、响珰珰一粒铜豌豆。"
+	},
+	{
+		"author": "张养浩",
+		"dynasty": "元",
+		"content": "兴，百姓苦；亡，百姓苦。"
+	},
+	{
+		"author": "白朴",
+		"dynasty": "元",
+		"content": "青山绿水，白草红叶黄花。"
+	},
+	{
+		"author": "乔吉",
+		"dynasty": "元",
+		"content": "凭阑无语，恨春无主。"
+	},
+	{
+		"author": "于谦",
+		"dynasty": "明",
+		"content": "粉身碎骨浑不怕，要留清白在人间。"
+	},
+	{
+		"author": "郑板桥",
+		"dynasty": "清",
+		"content": "千磨万击还坚劲，任尔东西南北风。"
+	},
+	{
+		"author": "曹雪芹",
+		"dynasty": "清",
+		"content": "满纸荒唐言，一把辛酸泪。"
+	},
+	{
+		"author": "龚自珍",
+		"dynasty": "清",
+		"content": "我劝天公重抖擞，不拘一格降人才。"
+	},
+	{
+		"author": "袁枚",
+		"dynasty": "清",
+		"content": "苔花如米小，也学牡丹开。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "红军不怕远征难，万水千山只等闲。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "数风流人物，还看今朝。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "不到长城非好汉，屈指行程二万。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "独立寒秋，湘江北去，橘子洲头。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "雄关漫道真如铁，而今迈步从头越。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "风雨送春归，飞雪迎春到。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "俱往矣，数风流人物，还看今朝。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "可上九天揽月，可下五洋捉鳖。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "宜将剩勇追穷寇，不可沽名学霸王。"
+	},
+	{
+		"author": "毛泽东",
+		"dynasty": "近现代",
+		"content": "俏也不争春，只把春来报。"
+	},
+	{
+		"author": "屈原",
+		"dynasty": "先秦",
+		"content": "路漫漫其修远兮，吾将上下而求索。"
+	},
+	{
+		"author": "曹操",
+		"dynasty": "汉",
+		"content": "日月之行，若出其中；星汉灿烂，若出其里。"
+	},
+	{
+		"author": "陶渊明",
+		"dynasty": "魏晋",
+		"content": "采菊东篱下，悠然见南山。"
+	},
+	{
+		"author": "谢灵运",
+		"dynasty": "魏晋",
+		"content": "池塘生春草，园柳变鸣禽。"
+	},
+	{
+		"author": "王勃",
+		"dynasty": "唐",
+		"content": "海内存知己，天涯若比邻。"
+	},
+	{
+		"author": "陈子昂",
+		"dynasty": "唐",
+		"content": "前不见古人，后不见来者。"
+	},
+	{
+		"author": "张若虚",
+		"dynasty": "唐",
+		"content": "江畔何人初见月？江月何年初照人？"
+	},
+	{
+		"author": "贺知章",
+		"dynasty": "唐",
+		"content": "不知细叶谁裁出，二月春风似剪刀。"
+	},
+	{
+		"author": "刘禹锡",
+		"dynasty": "唐",
+		"content": "沉舟侧畔千帆过，病树前头万木春。"
+	},
+	{
+		"author": "王翰",
+		"dynasty": "唐",
+		"content": "醉卧沙场君莫笑，古来征战几人回？"
+	},
+	{
+		"author": "张九龄",
+		"dynasty": "唐",
+		"content": "海上生明月，天涯共此时。"
+	},
+	{
+		"author": "孟郊",
+		"dynasty": "唐",
+		"content": "谁言寸草心，报得三春晖。"
+	},
+	{
+		"author": "韦应物",
+		"dynasty": "唐",
+		"content": "春潮带雨晚来急，野渡无人舟自横。"
+	},
+	{
+		"author": "贾岛",
+		"dynasty": "唐",
+		"content": "鸟宿池边树，僧敲月下门。"
+	},
+	{
+		"author": "杜牧",
+		"dynasty": "唐",
+		"content": "南朝四百八十寺，多少楼台烟雨中。"
+	},
+	{
+		"author": "温庭筠",
+		"dynasty": "唐",
+		"content": "鸡声茅店月，人迹板桥霜。"
+	},
+	{
+		"author": "李煜",
+		"dynasty": "五代",
+		"content": "问君能有几多愁？恰似一江春水向东流。"
+	},
+	{
+		"author": "范仲淹",
+		"dynasty": "宋",
+		"content": "碧云天，黄叶地，秋色连波，波上寒烟翠。"
+	},
+	{
+		"author": "欧阳修",
+		"dynasty": "宋",
+		"content": "月上柳梢头，人约黄昏后。"
+	},
+	{
+		"author": "王安石",
+		"dynasty": "宋",
+		"content": "不畏浮云遮望眼，自缘身在最高层。"
+	},
+	{
+		"author": "司马光",
+		"dynasty": "宋",
+		"content": "宝剑锋从磨砺出，梅花香自苦寒来。"
+	},
+	{
+		"author": "黄庭坚",
+		"dynasty": "宋",
+		"content": "桃李春风一杯酒，江湖夜雨十年灯。"
+	},
+	{
+		"author": "陆游",
+		"dynasty": "宋",
+		"content": "山重水复疑无路，柳暗花明又一村。"
+	},
+	{
+		"author": "杨万里",
+		"dynasty": "宋",
+		"content": "接天莲叶无穷碧，映日荷花别样红。"
+	},
+	{
+		"author": "朱熹",
+		"dynasty": "宋",
+		"content": "问渠那得清如许？为有源头活水来。"
+	},
+	{
+		"author": "文天祥",
+		"dynasty": "宋",
+		"content": "人生自古谁无死？留取丹心照汗青。"
+	},
+	{
+		"author": "姜夔",
+		"dynasty": "宋",
+		"content": "二十四桥仍在，波心荡，冷月无声。"
+	},
+	{
+		"author": "吴文英",
+		"dynasty": "宋",
+		"content": "楼前绿暗分携路，一丝柳，一寸柔情。"
+	},
+	{
+		"author": "元好问",
+		"dynasty": "金",
+		"content": "问世间，情为何物，直教生死相许？"
+	},
+	{
+		"author": "高启",
+		"dynasty": "明",
+		"content": "雪满山中高士卧，月明林下美人来。"
+	},
+	{
+		"author": "杨慎",
+		"dynasty": "明",
+		"content": "滚滚长江东逝水，浪花淘尽英雄。"
+	},
+	{
+		"author": "纳兰性德",
+		"dynasty": "清",
+		"content": "人生若只如初见，何事秋风悲画扇。"
+	},
+	{
+		"author": "黄景仁",
+		"dynasty": "清",
+		"content": "似此星辰非昨夜，为谁风露立中宵。"
+	},
+	{
+		"author": "丘逢甲",
+		"dynasty": "清",
+		"content": "春愁难遣强看山，往事惊心泪欲潸。"
+	},
+
+
+
+
+	{
+		"author": "朱敦儒",
+		"dynasty": "宋",
+		"content": "世事短如春梦，人情薄似秋云。"
+	},
+	{
+		"author": "岳飞",
+		"dynasty": "宋",
+		"content": "莫等闲，白了少年头，空悲切。"
+	},
+	{
+		"author": "姜夔",
+		"dynasty": "宋",
+		"content": "旧时月色，算几番照我，梅边吹笛。"
+	},
+	{
+		"author": "张孝祥",
+		"dynasty": "宋",
+		"content": "应念岭海经年，孤光自照，肝肺皆冰雪。"
+	},
+	{
+		"author": "贺铸",
+		"dynasty": "宋",
+		"content": "试问闲愁都几许？一川烟草，满城风絮，梅子黄时雨。"
+	},
+	{
+		"author": "严羽",
+		"dynasty": "宋",
+		"content": "青山隐隐水迢迢，秋尽江南草未凋。"
+	},
+	{
+		"author": "刘辰翁",
+		"dynasty": "宋",
+		"content": "百年复几许，慷慨一何多。"
+	},
+	{
+		"author": "文天祥",
+		"dynasty": "宋",
+		"content": "从今别却江南路，化作啼鹃带血归。"
+	},
+	{
+		"author": "徐再思",
+		"dynasty": "元",
+		"content": "平生不会相思，才会相思，便害相思。"
+	},
+	{
+		"author": "张可久",
+		"dynasty": "元",
+		"content": "小桥流水人家，古道西风瘦马。"
+	},
+	{
+		"author": "马致远",
+		"dynasty": "元",
+		"content": "夕阳西下，断肠人在天涯。"
+	},
+	{
+		"author": "睢景臣",
+		"dynasty": "元",
+		"content": "哀怨写宫商，凄凉分节奏。"
+	},
+	{
+		"author": "施耐庵",
+		"dynasty": "明",
+		"content": "画虎画皮难画骨，知人知面不知心。"
+	},
+	{
+		"author": "罗贯中",
+		"dynasty": "明",
+		"content": "纷纷世事无穷尽，天数茫茫不可逃。"
+	},
+	{
+		"author": "吴承恩",
+		"dynasty": "明",
+		"content": "心行慈善，何需努力看经。"
+	},
+	{
+		"author": "冯梦龙",
+		"dynasty": "明",
+		"content": "人情似纸张张薄，世事如棋局局新。"
+	},
+	{
+		"author": "李贽",
+		"dynasty": "明",
+		"content": "天下兴亡，匹夫有责。"
+	},
+	{
+		"author": "唐寅",
+		"dynasty": "明",
+		"content": "别人笑我太疯癫，我笑他人看不穿。"
+	},
+	{
+		"author": "徐渭",
+		"dynasty": "明",
+		"content": "几间东倒西歪屋，一个南腔北调人。"
+	},
+	{
+		"author": "张岱",
+		"dynasty": "明",
+		"content": "雾凇沆砀，天与云、山与水，上下一白。"
+	},
+	{
+		"author": "李渔",
+		"dynasty": "明",
+		"content": "情到浓时情转薄，爱到深处爱无言。"
+	},
+	{
+		"author": "朱彝尊",
+		"dynasty": "清",
+		"content": "一别如斯，落尽梨花月又西。"
+	},
+	{
+		"author": "纳兰性德",
+		"dynasty": "清",
+		"content": "被酒莫惊春睡重，赌书消得泼茶香。"
+	},
+	{
+		"author": "郑燮",
+		"dynasty": "清",
+		"content": "些小吾曹州县吏，一枝一叶总关情。"
+	},
+	{
+		"author": "袁枚",
+		"dynasty": "清",
+		"content": "白日不到处，青春恰自来。"
+	},
+	{
+		"author": "黄景仁",
+		"dynasty": "清",
+		"content": "十有九人堪白眼，百无一用是书生。"
+	},
+	{
+		"author": "龚自珍",
+		"dynasty": "清",
+		"content": "落红不是无情物，化作春泥更护花。"
+	},
+	{
+		"author": "秋瑾",
+		"dynasty": "清",
+		"content": "身不得，男儿列，心却比，男儿烈。"
+	},
+	{
+		"author": "王国维",
+		"dynasty": "清",
+		"content": "人生只似风前絮，欢也零星，悲也零星。"
+	},
+	{
+		"author": "陈独秀",
+		"dynasty": "近现代",
+		"content": "我自横刀向天笑，去留肝胆两昆仑。"
+	},
+	{
+		"author": "鲁迅",
+		"dynasty": "近现代",
+		"content": "寄意寒星荃不察，我以我血荐轩辕。"
+	},
+	{
+		"author": "秋瑾",
+		"dynasty": "近现代",
+		"content": "拼将十万头颅血，须把乾坤力挽回。"
+	},
+	{
+		"author": "陈毅",
+		"dynasty": "近现代",
+		"content": "此去泉台招旧部，旌旗十万斩阎罗。"
+	},
+	{
+		"author": "叶剑英",
+		"dynasty": "近现代",
+		"content": "借得大江千斛水，研为翰墨颂新声。"
+	},
+	{
+		"author": "朱德",
+		"dynasty": "近现代",
+		"content": "度量大如海，应记教诲恩。"
+	},
+	{
+		"author": "周恩来",
+		"dynasty": "近现代",
+		"content": "大江歌罢掉头东，邃密群科济世穷。"
+	},
+	{
+		"author": "郭沫若",
+		"dynasty": "近现代",
+		"content": "地球，我的母亲，我过去，现在，未来，食的是你，衣的是你，住的是你。"
+	},
+	{
+		"author": "艾青",
+		"dynasty": "近现代",
+		"content": "为什么我的眼里常含泪水？因为我对这土地爱得深沉。"
+	},
+	{
+		"author": "徐志摩",
+		"dynasty": "近现代",
+		"content": "轻轻的我走了，正如我轻轻的来。"
+	},
+	{
+		"author": "戴望舒",
+		"dynasty": "近现代",
+		"content": "她彷徨在这寂寥的雨巷，撑着油纸伞。"
+	},
+	{
+		"author": "闻一多",
+		"dynasty": "近现代",
+		"content": "红烛啊！是谁制的蜡——给你躯体？是谁点的火——点着灵魂？"
+	},
+	{
+		"author": "林徽因",
+		"dynasty": "近现代",
+		"content": "你是人间的四月天，笑响点亮了四面风。"
+	},
+	{
+		"author": "穆旦",
+		"dynasty": "近现代",
+		"content": "我有这颗心像繁花的树，哪里需要，哪里开花。"
+	},
+	{
+		"author": "北岛",
+		"dynasty": "近现代",
+		"content": "卑鄙是卑鄙者的通行证，高尚是高尚者的墓志铭。"
+	},
+	{
+		"author": "舒婷",
+		"dynasty": "近现代",
+		"content": "我是你河边上破旧的老水车，数百年来纺着疲惫的歌。"
+	},
+	{
+		"author": "海子",
+		"dynasty": "近现代",
+		"content": "从明天起，做一个幸福的人，喂马，劈柴，周游世界。"
+	},
+	{
+		"author": "顾城",
+		"dynasty": "近现代",
+		"content": "黑夜给了我黑色的眼睛，我却用它来寻找光明。"
+	},
+	{
+		"author": "席慕蓉",
+		"dynasty": "近现代",
+		"content": "如何让你遇见我，在我最美丽的时刻。"
+	},
+	{
+		"author": "汪国真",
+		"dynasty": "近现代",
+		"content": "没有比脚更长的路，没有比人更高的山。"
+	},
+	{
+		"author": "余光中",
+		"dynasty": "近现代",
+		"content": "乡愁是一枚小小的邮票，我在这头，母亲在那头。"
+	},
+	{
+		"author": "泰戈尔",
+		"dynasty": "印度",
+		"content": "生如夏花之绚烂，死如秋叶之静美。"
+	},
+	{
+		"author": "普希金",
+		"dynasty": "俄国",
+		"content": "假如生活欺骗了你，不要悲伤，不要心急。"
+	},
+	{
+		"author": "雪莱",
+		"dynasty": "英国",
+		"content": "冬天来了，春天还会远吗？"
+	},
+	{
+		"author": "拜伦",
+		"dynasty": "英国",
+		"content": "如果你冷，我将为你燃起生命之火。"
+	},
+	{
+		"author": "歌德",
+		"dynasty": "德国",
+		"content": "永恒之女性，引导我们上升。"
+	},
+	{
+		"author": "海涅",
+		"dynasty": "德国",
+		"content": "冬天从这里夺去的，春天会交还给你。"
+	},
+	{
+		"author": "惠特曼",
+		"dynasty": "美国",
+		"content": "哪里有土，哪里有水，哪里就长着草。"
+	},
+	{
+		"author": "狄金森",
+		"dynasty": "美国",
+		"content": "希望是长着羽毛的东西，它栖息在灵魂里。"
+	},
+	{
+		"author": "纪伯伦",
+		"dynasty": "黎巴嫩",
+		"content": "我们走的太远，以至于忘记了为什么而出发。"
+	},
+	{
+		"author": "尼采",
+		"dynasty": "德国",
+		"content": "那些不能杀死我的，会使我变得更强大。"
+	},
+	{
+		"author": "罗曼·罗兰",
+		"dynasty": "法国",
+		"content": "世上只有一种英雄主义，就是在认清生活真相之后依然热爱生活。"
+	},
+	{
+		"author": "雨果",
+		"dynasty": "法国",
+		"content": "世界上最广阔的是海洋，比海洋更广阔的是天空，比天空更广阔的是人的心灵。"
+	},
+	{
+		"author": "托尔斯泰",
+		"dynasty": "俄国",
+		"content": "幸福的家庭都是相似的，不幸的家庭各有各的不幸。"
+	},
+	{
+		"author": "伏尔泰",
+		"dynasty": "法国",
+		"content": "我不同意你说的每一个字，但我誓死捍卫你说话的权利。"
+	},
+	{
+		"author": "莎士比亚",
+		"dynasty": "英国",
+		"content": "生存还是毁灭，这是一个值得思考的问题。"
+	},
+	{
+		"author": "但丁",
+		"dynasty": "意大利",
+		"content": "走自己的路，让别人去说吧。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "会挽雕弓如满月，西北望，射天狼。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "谁家玉笛暗飞声，散入春风满洛城。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "回首向来萧瑟处，归去，也无风雨也无晴。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "拣尽寒枝不肯栖，寂寞沙洲冷。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "谁道人生无再少？门前流水尚能西！休将白发唱黄鸡。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "长恨此身非我有，何时忘却营营。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "小舟从此逝，江海寄余生。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "人生如梦，一尊还酹江月。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "但愿人长久，千里共婵娟。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "不识庐山真面目，只缘身在此山中。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "水光潋滟晴方好，山色空蒙雨亦奇。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "欲把西湖比西子，淡妆浓抹总相宜。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "枝上柳绵吹又少，天涯何处无芳草。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "大江东去，浪淘尽，千古风流人物。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "江山如画，一时多少豪杰。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "会挽雕弓如满月，西北望，射天狼。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "谁道人生无再少？门前流水尚能西！休将白发唱黄鸡。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "长恨此身非我有，何时忘却营营。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "小舟从此逝，江海寄余生。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "人生如梦，一尊还酹江月。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "但愿人长久，千里共婵娟。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "不识庐山真面目，只缘身在此山中。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "水光潋滟晴方好，山色空蒙雨亦奇。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "欲把西湖比西子，淡妆浓抹总相宜。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "枝上柳绵吹又少，天涯何处无芳草。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "大江东去，浪淘尽，千古风流人物。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "江山如画，一时多少豪杰。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "会挽雕弓如满月，西北望，射天狼。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "谁道人生无再少？门前流水尚能西！休将白发唱黄鸡。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "长恨此身非我有，何时忘却营营。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "小舟从此逝，江海寄余生。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "人生如梦，一尊还酹江月。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "但愿人长久，千里共婵娟。"
+	},
+	{
+		"author": "苏轼",
+		"dynasty": "宋",
+		"content": "不识庐山真面目，只缘身在此山中。"
+	}
+]

@@ -1,0 +1,276 @@
+body {
+	background-image: url("../starlit-sky.png");
+	margin: 0;
+	padding: 0;
+	font-family: Arial, sans-serif;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #ffffff;
+	color: #ffffff;
+	background-size: cover;
+	background-position: center;
+	overflow: hidden;
+}
+
+.tool {
+	border: 1px solid #2e2e2e5d;
+	width: 500px;
+	padding: 20px;
+	border-radius: 10px;
+	backdrop-filter: blur(10px);
+	box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.box-head {
+	color: #ffffff;
+	text-align: center;
+	display: grid;
+	flex-wrap: wrap;
+	margin-bottom: 10px;
+}
+
+.box-head .tool-name {
+	color: #ffffff;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.box-head span {
+	word-break: break-all;
+	overflow-wrap: break-word;
+}
+
+.box-input {
+	border: 1px solid #2e2e2e5d;
+	width: 500px;
+	border-radius: 10px;
+	height: 40px;
+	line-height: 40px;
+	overflow: hidden;
+	margin-bottom: 20px;
+	position: relative;
+	background-color: #bdbdbd30;
+	display: flex;
+	justify-content: center;
+	color: #ffffff;
+}
+
+.box-input span {
+	color: #ffffff;
+}
+
+a {
+	transition: transform 0.3s ease-in-out;
+	color: #ffffff;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#searchButton {
+	background-color: #ffffff00;
+	border: none;
+	width: 40px;
+	padding: 0px 15px 0px 15px;
+}
+
+#searchButton:hover {
+	background-color: #00000021;
+	border: none;
+	width: 40px
+}
+
+#searchButton a {
+	transition: transform 0.5s ease-in-out;
+	color: #ffffff;
+}
+
+#searchButton a:hover {
+	text-decoration: none;
+}
+
+.box-input select {
+	border: none;
+	background-color: transparent;
+	color: #ffffff;
+	font-size: 16px;
+	padding: 0 20px 0 10px;
+}
+
+.box-input select:focus {
+	outline: none;
+}
+
+.box-input select:hover,
+.box-input select:focus {
+	background-color: #00000021;
+	transition: transform 0.3s ease-in-out;
+}
+
+.box-input select option {
+	color: #000000;
+	background-color: #ffffff;
+}
+
+#search-input {
+	width: 100%;
+	height: 100%;
+	border: none;
+	outline: none;
+	background-color: transparent;
+	font-size: 16px;
+	padding: 0 10px;
+	text-align: center;
+	color: #ffffff;
+}
+
+input::placeholder,
+textarea::placeholder {
+	color: inherit;
+	opacity: 1;
+}
+
+/* Webkit (Chrome/Safari) */
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+	color: inherit;
+}
+
+/* Firefox */
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+	color: inherit;
+	opacity: 1;
+}
+
+/* IE10+ */
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+	color: inherit;
+}
+
+.box-poem {
+	border: 1px solid #2e2e2e5d;
+	width: 470px;
+	border-radius: 10px;
+	overflow: hidden;
+	margin-bottom: 20px;
+	color: #ffffff;
+	background-color: #bdbdbd30;
+	padding: 15px;
+	position: relative;
+}
+
+.poem {
+	font-size: 16px;
+	text-align: center;
+	color: inherit;
+}
+
+/* .author {
+			font-size: 16px;
+			color: inherit;
+			text-align: right;
+		} */
+
+.box-item {
+	border: 1px solid #2e2e2e5d;
+	width: 500px;
+	border-radius: 10px;
+	overflow: hidden;
+	margin-bottom: 20px;
+	padding: 0;
+}
+
+.box-item ul {
+	list-style: none;
+	padding: 0;
+	color: #ffffff;
+}
+
+.box-item ul li {
+	margin-bottom: 10px;
+}
+
+.box-item ul li a {
+	text-decoration: none;
+	color: inherit;
+	padding: 10px 20px;
+	display: block;
+	transition: background-color 0.3s;
+}
+
+.box-item ul li a.active {
+	background-color: #007bff;
+	border-radius: 5px;
+}
+
+.box-item ul li a:hover {
+	background-color: #00000021;
+}
+
+@media (max-width: 600px) {
+	body {
+		background-image: url("../starlit-sky.png");
+		margin: 0;
+		padding: 0;
+		font-family: Arial, sans-serif;
+		height: 100vh;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: #ffffff;
+		background-size: cover;
+		background-position: center;
+		overflow: hidden;
+		backdrop-filter: blur(20px);
+	}
+
+	.tool {
+		border: none;
+		width: 90%;
+		padding: none;
+		border-radius: none;
+		backdrop-filter: none;
+		box-shadow: none;
+	}
+
+	.box-input {
+		border: 1px solid #2e2e2e5d;
+		width: 100%;
+		border-radius: 10px;
+		height: 40px;
+		line-height: 40px;
+		overflow: hidden;
+		margin-bottom: 20px;
+		position: relative;
+		background-color: #bdbdbd30;
+		display: flex;
+		justify-content: center;
+		color: #ffffff;
+	}
+
+	.box-item {
+		border: 1px solid #2e2e2e5d;
+		width: 100%;
+		border-radius: 10px;
+		overflow: hidden;
+		margin-bottom: 20px;
+		padding: 0;
+	}
+
+	.box-poem {
+		border: 1px solid #2e2e2e5d;
+		width: calc(100% - 30px);
+		border-radius: 10px;
+		overflow: hidden;
+		margin-bottom: 20px;
+		color: #ffffff;
+		background-color: #bdbdbd30;
+		padding: 15px;
+		position: relative;
+	}
+}

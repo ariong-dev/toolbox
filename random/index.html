@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+	<meta charset="utf-8">
+	<title>工具箱：随机数</title>
+	<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+	<link href="/styles/index.beta.1.01.css" rel="stylesheet">
+	<link href="/styles/random.beta.css" rel="stylesheet">
+	<script src="/script/index_beta_01.js"></script>
+</head>
+
+<body>
+	<div class="tool">
+		<div class="box-head">
+			<span class="tool-name">工具箱：随机数</span>
+			<span>Version Beta1.21</span>
+			<span>Developed by <a href="https://www.ariong.top">Ariong</a> & <a href="https://classfruit.top">ClassFruit</a><span>
+		</div>
+		<form id="randomForm">
+			<div class="form-group">
+				<label for="minValue">最小值</label>
+				<input type="number" id="minValue" name="minValue" value="0" step="any">
+			</div>
+			<div class="form-group">
+				<label for="maxValue">最大值</label>
+				<input type="number" id="maxValue" name="maxValue" step="any" value="100">
+			</div>
+			<div class="form-group">
+				<label for="count">随机数数量</label>
+				<input type="number" id="count" name="count" value="1" min="1" max="256">
+			</div>
+			<div class="form-group">
+				<label for="decimalPlaces">小数点位数</label>
+				<input type="number" id="decimalPlaces" name="decimalPlaces" value="0" min="0" max="10">
+			</div>
+			<div class="form-group">
+				<div class="submit-button">
+					<button type="submit">生成随机数</button>
+				</div>
+			</div>
+		</form>
+		<div class="result" id="result">您还没有生成随机数</div>
+		<div class="box-poem">
+			<div class="poem" id="poem"></div>
+			<div class="author" id="author"></div>
+		</div>
+	</div>
+	<script src="/script/random_beta.js"></script>
+</body>
+
+</html>
