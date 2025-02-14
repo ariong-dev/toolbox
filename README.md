@@ -12,5 +12,8 @@ ToolBox， Featuring a variety of lightweight out of the box projects, including
 ## License
 [MIT](https://github.com/ariong-dev/toolbox/edit/main/LICENSE)
 
+## Download ZIP
+[iCloud](https://www.icloud.com.cn/iclouddrive/055UVAXXXu60ETyQ061DzsuNg#toolbox-main)
+
 ## Go to the website
 [ToolBox](https://tool.ariong.top)
